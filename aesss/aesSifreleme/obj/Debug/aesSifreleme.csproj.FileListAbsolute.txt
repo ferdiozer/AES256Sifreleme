@@ -1,0 +1,9 @@
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\bin\Debug\aesSifreleme.exe.config
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\bin\Debug\aesSifreleme.exe
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\bin\Debug\aesSifreleme.pdb
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\obj\Debug\aesSifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\obj\Debug\aesSifreleme.Properties.Resources.resources
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\obj\Debug\aesSifreleme.csproj.GenerateResource.Cache
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\obj\Debug\aesSifreleme.exe
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\obj\Debug\aesSifreleme.pdb
+C:\Users\Ferdi\Desktop\nyp\example\aesSifreleme\aesSifreleme\obj\Debug\aesSifreleme.AesForm.resources
